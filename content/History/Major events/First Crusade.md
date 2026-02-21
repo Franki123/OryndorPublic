@@ -71,7 +71,7 @@ Founded as a healing order attached to a pilgrimage hospital predating the crusa
 
 In practice, Andrian healers moved through every phase of the crusade — treating crusaders, and when circumstances permitted, the wounded on the other side. They established field hospitals, managed supply lines, and negotiated prisoner exchanges. Over the 120 years of the First Crusade, they became indispensable infrastructure for the Christian host.
 
-They also accumulated resentments. Military commanders found the Hospitallers' insistence on treating enemy wounded — and their documented refusal to participate in certain operations — a persistent irritant. The Radiant Cross and the Brotherhood of the Penitent Blade both considered the Andrians insufficiently zealous. The Hospitallers developed a reputation for quiet, stubborn insubordination in service of their original oath.
+They also accumulated resentments. Military commanders found the Hospitallers' insistence on treating enemy wounded — and their documented refusal to participate in certain operations — a persistent irritant. The [[Radiant Cross and the Brotherhood]] of the [[Penitent Blade]] both considered the Andrians insufficiently zealous. The Hospitallers developed a reputation for quiet, stubborn insubordination in service of their original oath.
 
 Their legacy fed directly into the tensions of the [[Second Crusade]], when the Order of the Radiant Cross began aggressively recruiting field medics to fill gaps in the Andrians' coverage.
 
@@ -81,7 +81,7 @@ The remained largely blameless of the atrocities committed by the other orders.
 
 ## Campaigns
 
-The First Callestan Crusade unfolded across three broad phases separated by periods of consolidation, political crisis among the crusading powers, and renewed Muslim resistance.
+The First Crusade unfolded across three broad phases separated by periods of consolidation, political crisis among the crusading powers, and renewed Muslim resistance.
 
 **The First Wave** last approximately 10 years. The enthusiastic Christian force swept across the Muslim lands faster than the opposing force could properly unite. Lordships were established to maintain order, but the Christians found that they had taken too much territory to govern effectively.
 
@@ -93,14 +93,14 @@ The First Callestan Crusade unfolded across three broad phases separated by peri
 
 ## Outcome and Legacy
 
-The First Crusade ended with a patchwork of Christian-governed cities and territories spread around the target areas. The crusaders had won occupation without achieving conversion or assimilation. The populations they ruled remained predominantly Muslim, governed by a Christian minority that held the citadels and the administrative apparatus but never transformed the culture beneath them.
+The First Crusade ended with a patchwork of Christian-governed cities and territories spread around the target areas. The crusaders had won occupation without achieving conversion or assimilation. The populations they ruled remained predominantly [[Muslim]], governed by a [[Christian]] minority that held the citadels and the administrative apparatus but never transformed the culture beneath them.
 
 The military orders that prosecuted the First Crusade evolved accordingly:
 
 - The [[Order of the Radiant Cross]] transitioned from a conquering force to a peacekeeping and enforcement body. 
-- The Iron Covenant became the nobility of the occupied territories. 
-- The Brotherhood of the Penitent Blade shrank to a remnant of true believers. 
-- The Hospitallers of St. Andrian continued their work until the Second Crusade's recruitment drives hollowed out their ranks.
+- The [[Iron Covenant]] became the nobility of the occupied territories. 
+- The [[Brotherhood of the Penitent Blade]] shrank to a remnant of true believers. 
+- The [[Hospitallers of St. Andrian]] continued their work until the [[Second Crusade]]'s recruitment drives hollowed out their ranks.
 
 ---
 

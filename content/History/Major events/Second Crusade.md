@@ -6,7 +6,7 @@ title: The Second Crusade
 ---
 **Duration:** 1173 – 1240
 
-**Outcome:** Expansion and consolidation of Christian holdings in the eastern provinces; widespread atrocities; collapse of crusader morale and institutional credibility
+**Outcome:** Expansion and consolidation of [[Christian]] holdings in the eastern provinces; widespread atrocities; collapse of crusader morale and institutional credibility
 
 The Second Crusade began roughly a generation after the First's formal conclusion. Where the [[First Crusade]] had ultimately been about retaking and protecting holy cities, the Second was about holding and extending it: pushing east into provinces where Muslim resistance had never fully broken, suppressing resurgent populations in cities already occupied, and consolidating Christian governance over territories that remained hostile beneath the surface.
 
@@ -18,15 +18,15 @@ It lasted 67 years and ended in 1240. It did not end cleanly.
 
 ### The Problem of Occupation
 
-The First Crusade had won cities. The Second inherited the question no recruitment sermon had answered: what do you do with a million people who do not want to be governed by you?
+The [[First Crusade]] had won cities. The Second inherited the question no recruitment sermon had answered: what do you do with a million people who do not want to be governed by you?
 
-The Christian occupation had always rested on a fragile equilibrium. The Muslim majorities in cities like [[Lektas]] were not subdued — they were present, patient, and waiting. Trade continued. Taxes were collected. The mosques remained open. The Christian lords, dependent on local administrative knowledge and commercial activity, found it easier to tolerate the existing social fabric than to dismantle it. For generations, an uneasy stability held.
+The [[Christian]] occupation had always rested on a fragile equilibrium. The [[Muslim]] majorities in cities like [[Lektas]] were not subdued — they were present, patient, and waiting. Trade continued. Taxes were collected. The mosques remained open. The [[Christian]] lords, dependent on local administrative knowledge and commercial activity, found it easier to tolerate the existing social fabric than to dismantle it. For generations, an uneasy stability held.
 
-By 1165, that stability was fraying. Renewed Muslim political consolidation to the east created a rallying point for resistance movements within the occupied territories. Insurgent networks operated through trade guilds, religious institutions, and family ties stretching across borders. The nobility of Europe read these developments as the First Crusade's unfinished business and prompted the Church to proclaim a new campaign — framed as defense of what had been won rather than conquest of what hadn't.
+By 1165, that stability was fraying. Renewed [[Muslim]] political consolidation to the east created a rallying point for resistance movements within the occupied territories. Insurgent networks operated through trade guilds, religious institutions, and family ties stretching across borders. The nobility of [[Europe]] read these developments as the [[First Crusade]]'s unfinished business and prompted the Church to proclaim a new campaign — framed as defense of what had been won rather than conquest of what hadn't.
 
 ### Recruitment and Expansion
 
-The Second Crusade's call drew a different composition than the First. The great sweep of noble houses and their armies had already come and gone; the Iron Covenant's founding lords were now settled landowners with no interest in further disruption. What the Second Crusade raised was a mix of second-generation true believers, younger sons of crusader-settler families who had grown up in the occupied territories, and a significant influx of clergy and support personnel who believed they were doing humanitarian work.
+The Second Crusade's call drew a different composition than the First. The great sweep of noble houses and their armies had already come and gone; the [[Iron Covenant]]'s founding lords were now settled landowners with no interest in further disruption. What the Second Crusade raised was a mix of second-generation true believers, younger sons of crusader-settler families who had grown up in the occupied territories, and a significant influx of clergy and support personnel who believed they were doing humanitarian work.
 
 The [[Order of the Radiant Cross]] drove recruitment aggressively, particularly for roles the order had chronically underfilled: field medics, chaplains, and administrative clergy. The sermons promised that healers would save lives, not end them. The honest version of that promise depended on who was doing the fighting.
 
@@ -34,7 +34,7 @@ The [[Order of the Radiant Cross]] drove recruitment aggressively, particularly 
 
 ## The Orders
 
-The Second Crusade saw the emergence of new specialized orders designed to handle the complexities of long-term occupation and insurgency, while the legacy orders of the First Crusade adapted to their new, often more cynical, roles.
+The Second Crusade saw the emergence of new specialized orders designed to handle the complexities of long-term occupation and insurgency, while the legacy orders of the [[First Crusade]] adapted to their new, often more cynical, roles.
 
 ### New Orders of the Second Crusade
 
@@ -85,7 +85,7 @@ The crusade formally ended in 1240, concluded by treaty rather than victory — 
 
 ## Aftermath
 
-###  Order of the Vigilant Sun
+### Order of the Vigilant Sun
 After the crusades ended the Vigilant sun was supposedly dispersed. However, those that were privy to such matters knew that the order had gone underground. Nobody outside the order knows to what end.
 
 ### Order of God's Gate
@@ -115,7 +115,7 @@ Ultimately, the second crusade accomplished little in the way of expansion or co
 
 Christians familiar with the Second Crusades regard it as the ultimate in service to God or as a stain on the Churches reputation in the Muslim world.
 
-Muslims, especially those being ruled over by Christians, regard both the [[First Crusade]] and the Second less as atrocities and more as obstacles to their own great empire and care little for the Christians' attempts to atone themselves in their eyes.
+[[Muslims]], especially those being ruled over by [[Christians]], regard both the [[First Crusade]] and the Second less as atrocities and more as obstacles to their own great empire and care little for the Christians' attempts to atone themselves in their eyes.
 
 ---
 
