@@ -1,14 +1,11 @@
----
-tags:
-  - Crusade
-  - ReligiousOrder
----
-
-
+#Crusade #HolyOrder #Organization
 
 **Type:** Religious-Military Order
+
 **Location:** Headquartered within the Christian Church; active across the [[Old World]]
+
 **Symbol:** A radiant golden cross, often displayed on armor, banners, and shields
+
 **Founded:** 1032
 
 ---
