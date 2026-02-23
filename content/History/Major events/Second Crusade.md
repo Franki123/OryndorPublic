@@ -77,7 +77,13 @@ The Church would later demand an investigation into the matter, the [[Order of t
 
 ### The Final Years (~1220 – 1240)
 
-The last two decades of the Second Crusade saw both a reduction in active military campaigning and a hardening of occupation policies in controlled territories. The eastern push had reached its practical limit; the suppression campaigns had produced diminishing returns and a growing recruitment problem, as reports from returning veterans circulated through Christian communities at home.
+The last two decades of the Second Crusade were defined by a fundamental shift in the nature of the conflict. Muslim political consolidation, long a threat on the horizon, had finally produced what the eastern resistance movements had never managed: a unified command and a deployable field army that could rival the crusaders.
+
+Both sides now had something to lose in open battle, and both sides knew it. The eastern push had already reached its practical limit; the suppression campaigns had produced diminishing returns and a growing recruitment problem at home. Facing an organized adversary rather than dispersed resistance networks, Christian commanders became more cautious, more selective, and more brutal in equal measure.
+
+Battles became rarer and far bloodier. Where the suppression campaigns had been characterized by asymmetric violence against insurgent targets, the final years produced genuine clashes between professional forces — and the accumulated hatred of six decades of occupation gave those battles a character that shocked even veterans of the earlier phases. Neither side gave any quarter.
+
+Chief among these engagements was the [[Battle of Manesmos]].
 
 The crusade formally ended in 1240, concluded by treaty rather than victory — the eastern expansion abandoned, the existing occupation codified, the question of what had been done set aside rather than answered.
 
