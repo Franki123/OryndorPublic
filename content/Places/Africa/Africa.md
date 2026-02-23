@@ -1,4 +1,4 @@
-## Africa
+Africa has lots of sand. Below are some places in Africa:
 
 - [[Kingdom of Pseizia]]
 	* **[[Chios County]]**
@@ -9,6 +9,4 @@
 	* **[[Heiaris County]]**
 	* **[[Athmomissos Territory]]**
 	* **[[Laugardur Territory]]**
-
-
 

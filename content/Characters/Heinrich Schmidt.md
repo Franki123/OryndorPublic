@@ -3,6 +3,7 @@ Born: 1219
 
 Died: TBD
 
+> "Hopefully Mr Heinrich doesn't die before he solves the issue with the grinder." - Machine worker shortly before being sucked into said grinder.
 
 A genius inventor and sole proprietor of [[Schmidt Mechanik]] a machinery company base in the [[Empire of Vogtsbach]].
 
