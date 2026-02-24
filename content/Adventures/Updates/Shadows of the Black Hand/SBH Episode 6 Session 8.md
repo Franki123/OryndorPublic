@@ -27,3 +27,5 @@ Smoke rose across Lektas. A mob turned the corner toward the bridge.
 *What will the party do when the mob arrives? Hold the line for Baldwin? Break ranks? Or find another way?*
 
 *Session 9 begins at the breaking point.*
+
+
