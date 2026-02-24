@@ -1,7 +1,9 @@
 # Session 8 Recap — Shadows of the Black Hand
-Test
+
 **In-Game Start Date:** April 5th, 1241
+
 **In-Game End Date:** April 6th, 1241
+
 **Location:** [[Lektas]]
 
 ---
