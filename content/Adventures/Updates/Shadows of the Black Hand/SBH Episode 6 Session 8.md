@@ -8,7 +8,7 @@
 
 ---
 
-**[[Lucero De La Cruz]]** — a former field medic of the [[Order of the Radiant Cross]] turned drunken monk — joined the party after being briefed on the mission. [[William Cromwell]] welcomed him with a bear hug. The group then stormed [[Esaphir]]'s warehouse, where a decoy figure exploded before the real Esaphir dropped from the ceiling onto [[Kunrad Valancius]]. The party fought her non-lethally and wore her down, but **[[Baldwin Greystone]]** arrived with guards, knocked her unconscious, and took her into custody — refusing to let the party interrogate her.
+**[[Lucero De La Cruz]]**, a former field medic of the [[Order of the Radiant Cross]] turned drunken monk — joined the party after being briefed on the mission. [[William Cromwell]] welcomed him with a bear hug. The group then stormed [[Esaphir]]'s warehouse, where a decoy figure exploded before the real Esaphir dropped from the ceiling onto [[Kunrad Valancius]]. The party fought her non-lethally and wore her down, but **[[Baldwin Greystone]]** arrived with guards, knocked her unconscious, and took her into custody — refusing to let the party interrogate her.
 
 A note found at the warehouse revealed Esaphir planned to visit **[[Darius Ralnor]]** — the soul-extraction mechanic the party had already killed. She doesn't know her benefactor is dead.
 
