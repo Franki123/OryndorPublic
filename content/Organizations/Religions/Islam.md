@@ -18,7 +18,7 @@ Islam is a monotheistic faith founded by the prophet Muhammad in the 7th century
 
 Muhammad was born in Mecca around 570 AD, orphaned young, and became a merchant. At 25 he married **Khadijah**, a wealthy widow who became his first convert and primary political backer. In 610 AD he reported receiving revelations from the angel Jibril in a cave on Mount Hira; these revelations, received over 23 years, became the Quran.
 
-After Khadijah's death in 619 AD, Muhammad took multiple wives to build tribal alliances, neutralize defeated enemies, and secure political succession. These marriages were strategic — binding him to future Caliphs, absorbing rival clans, and consolidating conquered territory. His marriage to **Aisha bint Abu Bakr** — betrothed at six, married at nine per the Hadith of Bukhari — is the most historically notable.
+After Khadijah's death in 619 AD, Muhammad took multiple wives to build tribal alliances, neutralize defeated enemies, and secure political succession. These marriages were strategic — binding him to future Caliphs, absorbing rival clans, and consolidating conquered territory.
 
 Muhammad was both a spiritual and military leader — he personally led raids and battles, making warfare an integral part of the prophetic example.
 
