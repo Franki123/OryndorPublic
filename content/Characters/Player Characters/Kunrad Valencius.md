@@ -4,8 +4,6 @@ tags:
   - Character
   - PlayerCharacter
 ---
-
-
 **Born:** August 12th, 1215
 
 Died: TBD
@@ -21,7 +19,7 @@ Died: TBD
 
 ## Reputation
 
-Kunrad Valancius is a knight of the [[Order of the Radiant Cross]], known along the roads and border settlements as a grim, unyielding defender of the Christian faith. He carries a Warhammer and wears battered plate armor bearing the insignia of his Order — unmistakable to anyone who has seen it before.
+Kunrad Valencius is a knight of the [[Order of the Radiant Cross]], known along the roads and border settlements as a grim, unyielding defender of the Christian faith. He carries a Warhammer and wears battered plate armor bearing the insignia of his Order — unmistakable to anyone who has seen it before.
 
 He is not subtle. He does not negotiate. He arrives in a community, asks what threatens it, and deals with that threat directly and with force. Those who share his faith describe him as a godsend — a protector who asks nothing in return, not even a bed for the night. Those who do not share his faith describe him differently: cold, judgmental, and dangerous in the way only a man of absolute conviction can be.
 

@@ -11,7 +11,7 @@ Welcome to the **Oryndor Wiki**, the central chronicle for our tabletop adventur
 Meet the brave (or perhaps just desperate) souls currently forging their destiny:
 - **[[Allistair Ashworth]]**
 - **[[Frigg Oden]]**
-- **[[Kunrad Valancius]]**
+- [[Kunrad Valencius]]
 - **[[Lucero De La Cruz]]**
 - **[[William Cromwell]]**
 

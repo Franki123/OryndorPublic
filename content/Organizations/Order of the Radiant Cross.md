@@ -77,7 +77,7 @@ Largely composed of clergy who were drafted into the crusades later in the campa
 
 ## Notable Members
 
-- **[[Kunrad Valancius]]** — A paladin and devout member who joined at age 16; wears their insignia on his plate armor.
+- **[[Kunrad Valencius]]** — A paladin and devout member who joined at age 16; wears their insignia on his plate armor.
 - **[[Caelith Vorn]]** — A paladin who witnessed atrocities during the crusades but chose to remain, believing reform must come from inside.
 - **[[Lucero De La Cruz]]** — A former field medic who served during the Second Callestan Crusade before breaking with the Order.
 - **[[Sir Alaric Trebid]]** — A veteran templar and mentor within the Order.
@@ -93,4 +93,4 @@ Largely composed of clergy who were drafted into the crusades later in the campa
 
 ---
 
-*See also: [[Kunrad Valancius]], [[Lucero De La Cruz]], [[Caelith Vorn]], [[Brotherhood of the Broken Oath]]*
+*See also: [[Kunrad Valencius]], [[Lucero De La Cruz]], [[Caelith Vorn]], [[Brotherhood of the Broken Oath]]*

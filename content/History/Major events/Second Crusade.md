@@ -127,9 +127,9 @@ Christians familiar with the Second Crusades regard it as the ultimate in servic
 
 ## People of Interest
 
-- [[Kunrad Valancius]] — Joined the Order of the Radiant and served in the crusade's final phase
+- [[Kunrad Valencius]] — Joined the Order of the Radiant and served in the crusade's final phase
 - [[Lucero De La Cruz]] — Recruited as a field medic, but left before the end of the crusades.
 
 ---
 
-*See also: [[First Crusade]], [[Order of the Radiant Cross]], [[Brotherhood of the Broken Oath]], [[Kunrad Valancius]], [[Lucero De La Cruz]], [[Esaphir]]*
+*See also: [[First Crusade]], [[Order of the Radiant Cross]], [[Brotherhood of the Broken Oath]], [[Kunrad Valencius]], [[Lucero De La Cruz]], [[Esaphir]]*
