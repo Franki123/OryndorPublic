@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - NotableCharacter
+---
 
 > _"He could make a clock out of a broken cart and a handful of nails. Brilliant man. Shame about the fire."_ — Shipwright, [[Kalibethia]]
 

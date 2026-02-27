@@ -1,3 +1,10 @@
+---
+tags:
+  - Character
+  - NotableCharacter
+---
+
+
 
 > _"He's twenty-three and he's already built machines that make the guild masters look like children playing with blocks. Give him ten years and he'll own half the industry in [[Buchenbach Landgrave|Buchenbach]]."_ — Anonymous merchant guild representative, [[Breinach]]
 

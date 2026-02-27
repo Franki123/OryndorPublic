@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - NotableCharacter
+---
 
 > _"You want Fenwick? He's in [[Kalibethia]]. He's in [[Lektas]]. He's in three ports at once if you believe the stories. The man gets around."_ — Unnamed dockmaster, [[Morga]]
 
