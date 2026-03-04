@@ -1,3 +1,9 @@
+---
+tags:
+  - WIP
+---
+
+
 # Rules for Intoxication
 
 Any time a person takes a drink, roll the **Intoxication Die** for that drink (see [[#Drink Prices & Strength]] below) and add the result to the character's intoxication total. Compare this total to their Constitution score to determine the current level. Thresholds are calculated as percentages of the character's Constitution score (round down).
