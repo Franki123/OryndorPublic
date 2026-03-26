@@ -1,8 +1,8 @@
 ---
 tags:
   - Crusade
-  - Character
   - PlayerCharacter
+  - SBH
 ---
 **Born:** August 12th, 1215
 

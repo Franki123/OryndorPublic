@@ -1,9 +1,7 @@
 ---
 tags:
   - SBH
-  - Character
   - PlayerCharacter
-  - WIP
 ---
 
 Born: ~1214
