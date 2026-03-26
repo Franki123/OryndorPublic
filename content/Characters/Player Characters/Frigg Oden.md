@@ -3,7 +3,6 @@ tags:
   - SBH
   - PlayerCharacter
 ---
-
 Born: ~1214
 Died: TBD
 

@@ -3,7 +3,8 @@ tags:
   - PlayerCharacter
   - SBH
 ---
-# Allistair Ashworth — Public Profile
+Born: April 16th, 1216
+Died: TBD
 
 > *What the world sees. What the world says. What the world doesn't know.*
 
