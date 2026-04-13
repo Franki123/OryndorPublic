@@ -9,3 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/config/config.json
+content/config/last_backup_path.txt
+content/config/sql_config.json

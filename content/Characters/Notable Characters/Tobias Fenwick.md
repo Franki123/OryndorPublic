@@ -4,7 +4,7 @@ tags:
   - NotableCharacter
 ---
 
-> _"You want Fenwick? He's in [[Kalibethia]]. He's in [[Lektas]]. He's in three ports at once if you believe the stories. The man gets around."_ — Unnamed dockmaster, [[Morga]]
+> _"You want Fenwick? He's in [[Kalibethia]]. He's in [[Lektas]]. The man gets around."_ — Unnamed dockmaster, [[Morga]]
 
 **Occupation:** Merchant-broker, procurement specialist
 **Base of Operations:** Unknown — no fixed address on record
