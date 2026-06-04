@@ -9,7 +9,7 @@ tags:
 Any time a person takes a drink, roll the **Intoxication Die** for that drink (see [[#Drink Prices & Strength]] below) and add the result to the character's intoxication total. Compare this total to their Constitution score to determine the current level. Thresholds are calculated as percentages of the character's Constitution score (round down).
 
 ### Drunk Monks
-Way of the Drunken Master monks do not have disadvantage on Dexterity saving throws when buzzed or Tipsy but instead have advantage. Enemies attacking a drunken master at these levels have disadvantage.
+Enemies attacking a drunken master with at least one level of intoxication have disadvantage.
 
 ---
 
