@@ -1,6 +1,6 @@
 
 **In-Game Start Date:** April 26th, 1241
-**In-Game End Date:** April 29th, 1241
+**In-Game End Date:** May 2nd, 1241
 **Location:** [[UCSS Lazarus]], [[The Blue Mountain]], [[Gravdalla]], [[Gickeras]]
 
 ---
