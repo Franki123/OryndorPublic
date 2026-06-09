@@ -2,14 +2,14 @@
 tags:
   - WIP
 ---
-
-
 # Rules for Intoxication
 
 Any time a person takes a drink, roll the **Intoxication Die** for that drink (see [[#Drink Prices & Strength]] below) and add the result to the character's intoxication total. Compare this total to their Constitution score to determine the current level. Thresholds are calculated as percentages of the character's Constitution score (round down).
 
 ### Drunk Monks
-Enemies attacking a drunken master with at least one level of intoxication have disadvantage.
+Enemies attacking a drunken master with at least one level of intoxication have disadvantage. 
+
+Additionally, drunken master's roll with disadvantage on intoxication rolls (roll two dice and take the lower result).
 
 ---
 
